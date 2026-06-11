@@ -1,0 +1,9 @@
+pytest
+playwright
+pytest-html
+allure-pytest
+pytest-bdd
+pytest-xdist
+
+
+#pip install requirements.txt
