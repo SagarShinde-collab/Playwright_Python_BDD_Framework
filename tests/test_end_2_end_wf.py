@@ -23,6 +23,7 @@ def test_complete_wf_end_2_end(page):
     dashboard.click_cart()
 
     #cart Page
+
     cart_page = CartPage(page)
     cart_page.open_cart()
     cart_page.click_checkout()
